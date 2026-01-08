@@ -3,6 +3,13 @@
 
 ![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pycoding20/number-carrier-checker/refs/heads/main/carrier-checker.png)
 
+## 🤝 Get in Touch
+
+if you want to purchase,
+
+- Email     : elowenreply@gmail.com
+- Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
+
 ## Features:
 1. **Global Support** Utilizes a robust core for phone number validation across a wide range of international prefixes (206 countries supported).
 2. **High-Throughput Core** Optimized for efficient processing and fast number format validation.
