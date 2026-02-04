@@ -1,11 +1,13 @@
 # Phone Number Carrier Lookup
 # 电话号码运营商查询
 
-![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pycoding20/number-carrier-checker/refs/heads/main/carrier-checker.png)
+![Phone Number Carrier Lookup](https://raw.githubusercontent.com/pycoding20/number-carrier-checker/refs/heads/main/phone-number-carrier-checker.png)
 
 ## 🤝 Get in Touch
 
 if you want to purchase,
+
+如果你想购买
 
 - Email     : elowenreply@gmail.com
 - Telegram  : [@thepythoncode97](https://t.me/thepythoncode97)
@@ -18,10 +20,6 @@ if you want to purchase,
 5. **Self-Contained Functionality** Codebase is designed to run with minimal external dependencies, simplifying local deployment.
 
 ---
-
-## Contact:
-For paid support, custom development, or business inquiries, reach out via Telegram: @thepythoncode97
-
 
 ## Supported Countries:
 | Country Name | Country Name | Country Name |
